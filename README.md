@@ -1,6 +1,6 @@
 Doodle is a search engine created with Next.js, Tailwind CSS and powered by Google api.
 
-## View demo [here](doodle-search.vercel.app)
+## View Demo [Here](doodle-search.vercel.app)
 
 ![alt text](/public/image/demo.png)
 
