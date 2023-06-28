@@ -15,8 +15,8 @@ export default function HomeHeader() {
           Images{" "}
         </Link>
 
-        <SparklesIcon className="bg-transparent hover:bg-gray-200 rounded-fullp-2 h-5" />
-        <button className="bg-blue-500 px-6 py-2 text-white font-medium rounded-medium hover:brightness-105 hover:shadow-md transition-shadow">
+        <SparklesIcon className="bg-transparent hover:bg-gray-200 rounded-full text-4xl p-2 h-9" />
+        <button className="bg-blue-500 px-6 py-2 text-white font-medium rounded-md hover:brightness-105 hover:shadow-md transition-shadow">
           Sign In
         </button>
       </div>
