@@ -1,10 +1,10 @@
 export default function Head() {
   return (
     <>
-      <title>Google Clone</title>
+      <title>Doodle Search</title>
       <meta content="width=device-width, initial-scale=1" name="viewport" />
-      <meta name="description" content="Google Clone" />
-      <link rel="icon" href="/image/favicon.svg" />
+      <meta name="description" content="Doodle Search Engine" />
+      <link rel="icon" href="/image/favicon.ico" />
     </>
   );
 }
